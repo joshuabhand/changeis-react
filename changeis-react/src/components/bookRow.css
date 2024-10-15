@@ -1,0 +1,17 @@
+.row {
+    width: 100%;
+    display: table;
+    border: 1px solid #444444;
+    display:inline-block
+}
+
+.row-item {
+  display: table-cell;
+  align-content: center;
+  padding: 10px;
+}
+  
+.thumbnail {
+  max-width: 100px;
+  max-height: 100px;
+}
